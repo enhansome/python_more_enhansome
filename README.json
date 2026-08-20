@@ -1,385 +1,420 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome Public Datasets",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Public Datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26898879,
+                "language": null,
+                "last_commit": "2026-08-04T19:54:53Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Machine Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21872392,
+                "language": "Python",
+                "last_commit": "2026-08-11T21:49:59Z",
+                "owner": "josephmisiti",
+                "repo": "awesome-machine-learning",
+                "stars": 74077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Courses",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26689598,
+                "language": null,
+                "last_commit": "2023-05-04T12:49:34Z",
+                "owner": "prakhar1989",
+                "repo": "awesome-courses",
+                "stars": 70529
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python Data Science Handbook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65388917,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-26T19:17:33Z",
+                "owner": "jakevdp",
+                "repo": "PythonDataScienceHandbook",
+                "stars": 49639
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Data Science",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21515044,
+                "language": null,
+                "last_commit": "2026-08-18T10:27:04Z",
+                "owner": "academic",
+                "repo": "awesome-datascience",
+                "stars": 29843
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Science ipython Notebooks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29749635,
+                "language": "Python",
+                "last_commit": "2024-03-20T13:52:34Z",
+                "owner": "donnemartin",
+                "repo": "data-science-ipython-notebooks",
+                "stars": 29308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Learning Resources #3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28723659,
+                "language": null,
+                "last_commit": "2025-05-26T12:28:00Z",
+                "owner": "ChristosChristofidis",
+                "repo": "awesome-deep-learning",
+                "stars": 28781
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Science Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43759462,
+                "language": "Python",
+                "last_commit": "2024-04-03T10:37:58Z",
+                "owner": "ujjwalkarn",
+                "repo": "DataSciencePython",
+                "stars": 5810
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Free Data Science Books",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14730075,
+                "language": null,
+                "last_commit": "2024-06-05T11:27:34Z",
+                "owner": "chaconnewu",
+                "repo": "free-data-science-books",
+                "stars": 3025
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lots of links on DS and ML",
+              "description": "[RU]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50620708,
+                "language": null,
+                "last_commit": "2021-01-12T10:55:12Z",
+                "owner": "demidovakatya",
+                "repo": "vvedenie-mashinnoe-obuchenie",
+                "stars": 1454
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118740236,
+                "language": null,
+                "last_commit": "2024-05-31T07:43:21Z",
+                "owner": "Shujian2015",
+                "repo": "FreeML",
+                "stars": 1130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Learn Data Science",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96045643,
+                "language": null,
+                "last_commit": "2024-06-07T15:12:03Z",
+                "owner": "siboehm",
+                "repo": "awesome-learn-datascience",
+                "stars": 789
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Science Learning Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86588543,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-25T13:36:25Z",
+                "owner": "5agado",
+                "repo": "data-science-learning",
+                "stars": 447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Machine Learning Courses",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61782248,
+                "language": null,
+                "last_commit": "2020-10-04T09:53:39Z",
+                "owner": "RatulGhosh",
+                "repo": "awesome-machine-learning",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Learning Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76650967,
+                "language": null,
+                "last_commit": "2016-12-16T12:25:10Z",
+                "owner": "re9ulus",
+                "repo": "neural-networks-materials",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning Tutorials",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125976206,
+                "language": null,
+                "last_commit": "2018-02-22T19:57:20Z",
+                "owner": "wilfreddesert",
+                "repo": "Machine-Learning-Tutorials",
+                "stars": 0
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-04T19:54:53Z",
-            "owner": "awesomedata",
-            "repo": "awesome-public-datasets",
-            "stars": 78143
-          }
+          "node_type": "group",
+          "title": "Data Science"
         },
         {
-          "node_type": "item",
-          "title": "Awesome Machine Learning",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Huge list of free programming books",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13491895,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:16:15Z",
+                "owner": "EbookFoundation",
+                "repo": "free-programming-books",
+                "stars": 394807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A gallery of interesting Jupyter notebooks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36895421,
+                "language": "Python",
+                "last_commit": "2026-07-09T16:05:40Z",
+                "owner": "jupyter",
+                "repo": "jupyter",
+                "stars": 15352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p1xt Career Guides",
+              "description": "## Not just for Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92241502,
+                "language": null,
+                "last_commit": "2026-01-03T19:47:46Z",
+                "owner": "P1xt",
+                "repo": "p1xt-guides",
+                "stars": 7183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Python books",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55897437,
+                "language": null,
+                "last_commit": "2025-07-17T12:26:40Z",
+                "owner": "junnplus",
+                "repo": "awesome-python-books",
+                "stars": 4288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python Reference Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13970153,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-06-27T11:54:42Z",
+                "owner": "rasbt",
+                "repo": "python_reference",
+                "stars": 3891
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Even more free resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28469844,
+                "language": null,
+                "last_commit": "2026-02-05T20:44:44Z",
+                "owner": "Michael0x2a",
+                "repo": "curated-programming-resources",
+                "stars": 3244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python Curated Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53597382,
+                "language": "Vim Script",
+                "last_commit": "2026-07-13T15:20:21Z",
+                "owner": "learnbyexample",
+                "repo": "scripting_course",
+                "stars": 1427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pythonidae",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18711198,
+                "language": "Julia",
+                "last_commit": "2023-07-04T14:36:02Z",
+                "owner": "svaksha",
+                "repo": "pythonidae",
+                "stars": 1040
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compilation of Python resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24817662,
+                "language": null,
+                "last_commit": "2023-10-25T19:43:03Z",
+                "owner": "adrianmoisey",
+                "repo": "learn-python",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python Bookmarks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92003071,
+                "language": null,
+                "last_commit": "2020-04-28T11:07:33Z",
+                "owner": "scraggo",
+                "repo": "bookmarks-programming",
+                "stars": 103
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T21:49:59Z",
-            "owner": "josephmisiti",
-            "repo": "awesome-machine-learning",
-            "stars": 74067
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Courses",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-05-04T12:49:34Z",
-            "owner": "prakhar1989",
-            "repo": "awesome-courses",
-            "stars": 70509
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Data Science Handbook",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-26T19:17:33Z",
-            "owner": "jakevdp",
-            "repo": "PythonDataScienceHandbook",
-            "stars": 49635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Data Science",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T10:27:04Z",
-            "owner": "academic",
-            "repo": "awesome-datascience",
-            "stars": 29838
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Data Science ipython Notebooks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-20T13:52:34Z",
-            "owner": "donnemartin",
-            "repo": "data-science-ipython-notebooks",
-            "stars": 29304
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep Learning Resources #3",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-05-26T12:28:00Z",
-            "owner": "ChristosChristofidis",
-            "repo": "awesome-deep-learning",
-            "stars": 28773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Data Science Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-03T10:37:58Z",
-            "owner": "ujjwalkarn",
-            "repo": "DataSciencePython",
-            "stars": 5810
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Free Data Science Books",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-05T11:27:34Z",
-            "owner": "chaconnewu",
-            "repo": "free-data-science-books",
-            "stars": 3024
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lots of links on DS and ML",
-          "description": "[RU]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-01-12T10:55:12Z",
-            "owner": "demidovakatya",
-            "repo": "vvedenie-mashinnoe-obuchenie",
-            "stars": 1454
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Machine Learning Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-05-31T07:43:21Z",
-            "owner": "Shujian2015",
-            "repo": "FreeML",
-            "stars": 1130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Learn Data Science",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-07T15:12:03Z",
-            "owner": "siboehm",
-            "repo": "awesome-learn-datascience",
-            "stars": 789
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Data Science Learning Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-05-25T13:36:25Z",
-            "owner": "5agado",
-            "repo": "data-science-learning",
-            "stars": 447
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Machine Learning Courses",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-10-04T09:53:39Z",
-            "owner": "RatulGhosh",
-            "repo": "awesome-machine-learning",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep Learning Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-12-16T12:25:10Z",
-            "owner": "re9ulus",
-            "repo": "neural-networks-materials",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Machine Learning Tutorials",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-02-22T19:57:20Z",
-            "owner": "wilfreddesert",
-            "repo": "Machine-Learning-Tutorials",
-            "stars": 0
-          }
+          "node_type": "group",
+          "title": "Useful lists"
         }
       ],
-      "title": "Data Science"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Huge list of free programming books",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T14:16:15Z",
-            "owner": "EbookFoundation",
-            "repo": "free-programming-books",
-            "stars": 394712
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A gallery of interesting Jupyter notebooks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-09T16:05:40Z",
-            "owner": "jupyter",
-            "repo": "jupyter",
-            "stars": 15351
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p1xt Career Guides",
-          "description": "## Not just for Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-03T19:47:46Z",
-            "owner": "P1xt",
-            "repo": "p1xt-guides",
-            "stars": 7183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Python books",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-17T12:26:40Z",
-            "owner": "junnplus",
-            "repo": "awesome-python-books",
-            "stars": 4287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Reference Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-06-27T11:54:42Z",
-            "owner": "rasbt",
-            "repo": "python_reference",
-            "stars": 3891
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Even more free resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-02-05T20:44:44Z",
-            "owner": "Michael0x2a",
-            "repo": "curated-programming-resources",
-            "stars": 3245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Curated Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2026-07-13T15:20:21Z",
-            "owner": "learnbyexample",
-            "repo": "scripting_course",
-            "stars": 1427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pythonidae",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2023-07-04T14:36:02Z",
-            "owner": "svaksha",
-            "repo": "pythonidae",
-            "stars": 1040
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Compilation of Python resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-10-25T19:43:03Z",
-            "owner": "adrianmoisey",
-            "repo": "learn-python",
-            "stars": 240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Bookmarks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-04-28T11:07:33Z",
-            "owner": "scraggo",
-            "repo": "bookmarks-programming",
-            "stars": 103
-          }
-        }
-      ],
-      "title": "Useful lists"
+      "title": "Ultimate resources (both free and paid)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:48:56.717Z",
+    "last_updated": "2026-08-20T02:48:22.684Z",
     "original_repository": "wilfreddesert/python_more_awesome",
+    "original_repository_id": 122324954,
     "original_repository_sha": "2583251842fc651a4ffb4de70511d6159ec2513b",
     "enhanced_repository": "enhansome/python_more_enhansome",
     "enhanced_repository_description": null,
