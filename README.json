@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:56:43Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78601
+                "stars": 78604
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T19:57:48Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74147
+                "stars": 74148
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70648
+                "stars": 70651
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2024-06-26T19:17:33Z",
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49692
+                "stars": 49693
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-22T06:20:28Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29858
+                "stars": 29859
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-03-20T13:52:34Z",
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29315
+                "stars": 29316
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395163
+                "stars": 395176
               }
             },
             {
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:49:44.515Z",
+    "last_updated": "2026-08-25T06:32:20.149Z",
     "original_repository": "wilfreddesert/python_more_awesome",
     "original_repository_id": 122324954,
     "original_repository_sha": "2583251842fc651a4ffb4de70511d6159ec2513b",
