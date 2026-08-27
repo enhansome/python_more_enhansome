@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-25T16:12:04Z",
+                "last_commit": "2026-08-26T21:15:40Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78633
+                "stars": 78670
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 21872392,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:57:48Z",
+                "last_commit": "2026-08-26T21:09:24Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74155
+                "stars": 74177
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70666
+                "stars": 70691
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2024-06-26T19:17:33Z",
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49699
+                "stars": 49709
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 21515044,
                 "language": null,
-                "last_commit": "2026-08-22T06:20:28Z",
+                "last_commit": "2026-08-26T17:06:22Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29866
+                "stars": 29876
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-03-20T13:52:34Z",
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29319
+                "stars": 29327
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28811
+                "stars": 28814
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2024-04-03T10:37:58Z",
                 "owner": "ujjwalkarn",
                 "repo": "DataSciencePython",
-                "stars": 5812
+                "stars": 5813
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2023-12-03T11:42:49Z",
                 "owner": "datasciencemasters",
                 "repo": "go",
-                "stars": 26268
+                "stars": 26266
               }
             }
           ],
@@ -286,7 +286,7 @@
                 "last_commit": "2026-01-13T19:49:12Z",
                 "owner": "satwikkansal",
                 "repo": "wtfpython",
-                "stars": 37060
+                "stars": 37067
               }
             }
           ],
@@ -308,7 +308,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395227
+                "stars": 395318
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2026-07-09T16:05:40Z",
                 "owner": "jupyter",
                 "repo": "jupyter",
-                "stars": 15351
+                "stars": 15350
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-01-03T19:47:46Z",
                 "owner": "P1xt",
                 "repo": "p1xt-guides",
-                "stars": 7186
+                "stars": 7185
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2025-07-17T12:26:40Z",
                 "owner": "junnplus",
                 "repo": "awesome-python-books",
-                "stars": 4289
+                "stars": 4291
               }
             },
             {
@@ -456,9 +456,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:55:52.920Z",
-    "original_repository": "wilfreddesert/python_more_awesome",
-    "original_repository_id": 122324954,
+    "last_updated": "2026-08-27T12:14:05.939Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 122324954,
+      "language": null,
+      "last_commit": "2019-03-24T12:57:55Z",
+      "owner": "wilfreddesert",
+      "repo": "python_more_awesome",
+      "stars": 103
+    },
     "original_repository_sha": "2583251842fc651a4ffb4de70511d6159ec2513b",
     "enhanced_repository": "enhansome/python_more_enhansome",
     "enhanced_repository_description": null,
