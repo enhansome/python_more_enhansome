@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-26T21:15:40Z",
+                "last_commit": "2026-08-27T22:41:18Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78670
-              }
+                "stars": 78688
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 21872392,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:09:24Z",
+                "last_commit": "2026-08-27T15:29:10Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74177
-              }
+                "stars": 74194
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70691
-              }
+                "stars": 70710
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2024-06-26T19:17:33Z",
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49709
-              }
+                "stars": 49721
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -74,11 +78,12 @@
                 "archived": false,
                 "id": 21515044,
                 "language": null,
-                "last_commit": "2026-08-26T17:06:22Z",
+                "last_commit": "2026-08-27T15:40:38Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29876
-              }
+                "stars": 29884
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -92,8 +97,9 @@
                 "last_commit": "2024-03-20T13:52:34Z",
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29327
-              }
+                "stars": 29329
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -107,8 +113,9 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28814
-              }
+                "stars": 28823
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2024-04-03T10:37:58Z",
                 "owner": "ujjwalkarn",
                 "repo": "DataSciencePython",
-                "stars": 5813
-              }
+                "stars": 5816
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "chaconnewu",
                 "repo": "free-data-science-books",
                 "stars": 3024
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "demidovakatya",
                 "repo": "vvedenie-mashinnoe-obuchenie",
                 "stars": 1454
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "Shujian2015",
                 "repo": "FreeML",
                 "stars": 1130
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "siboehm",
                 "repo": "awesome-learn-datascience",
                 "stars": 789
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "5agado",
                 "repo": "data-science-learning",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "RatulGhosh",
                 "repo": "awesome-machine-learning",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "re9ulus",
                 "repo": "neural-networks-materials",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "wilfreddesert",
                 "repo": "Machine-Learning-Tutorials",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             }
           ],
           "description": null,
@@ -264,8 +280,9 @@
                 "last_commit": "2023-12-03T11:42:49Z",
                 "owner": "datasciencemasters",
                 "repo": "go",
-                "stars": 26266
-              }
+                "stars": 26268
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             }
           ],
           "description": null,
@@ -286,8 +303,9 @@
                 "last_commit": "2026-01-13T19:49:12Z",
                 "owner": "satwikkansal",
                 "repo": "wtfpython",
-                "stars": 37067
-              }
+                "stars": 37066
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             }
           ],
           "description": null,
@@ -308,8 +326,9 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395318
-              }
+                "stars": 395426
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "jupyter",
                 "repo": "jupyter",
                 "stars": 15350
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -338,8 +358,9 @@
                 "last_commit": "2026-01-03T19:47:46Z",
                 "owner": "P1xt",
                 "repo": "p1xt-guides",
-                "stars": 7185
-              }
+                "stars": 7184
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "junnplus",
                 "repo": "awesome-python-books",
                 "stars": 4291
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -368,8 +390,9 @@
                 "last_commit": "2022-06-27T11:54:42Z",
                 "owner": "rasbt",
                 "repo": "python_reference",
-                "stars": 3892
-              }
+                "stars": 3891
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -383,8 +406,9 @@
                 "last_commit": "2026-02-05T20:44:44Z",
                 "owner": "Michael0x2a",
                 "repo": "curated-programming-resources",
-                "stars": 3244
-              }
+                "stars": 3243
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -398,8 +422,9 @@
                 "last_commit": "2026-07-13T15:20:21Z",
                 "owner": "learnbyexample",
                 "repo": "scripting_course",
-                "stars": 1427
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -414,7 +439,8 @@
                 "owner": "svaksha",
                 "repo": "pythonidae",
                 "stars": 1040
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -429,7 +455,8 @@
                 "owner": "adrianmoisey",
                 "repo": "learn-python",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             },
             {
               "node_type": "item",
@@ -444,7 +471,8 @@
                 "owner": "scraggo",
                 "repo": "bookmarks-programming",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T13:29:57.666Z"
             }
           ],
           "description": null,
@@ -456,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:05.939Z",
+    "last_updated": "2026-08-28T13:29:57.666Z",
     "original_repository_info": {
       "archived": false,
       "id": 122324954,
