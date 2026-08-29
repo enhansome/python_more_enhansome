@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A topic-centric list of HQ open datasets.",
+                "homepage": "https://awesomedataworld.slack.com",
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-27T22:41:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:22:22Z",
+                "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78688
+                "stars": 78694,
+                "topics": [
+                  "aaron-swartz",
+                  "awesome-public-datasets",
+                  "datasets",
+                  "opendata"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -28,12 +38,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74194
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -44,12 +59,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: List of awesome university courses for learning Computer Science!",
+                "homepage": null,
                 "id": 26689598,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-04T12:49:34Z",
+                "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70710
+                "stars": 70730,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "computer-science",
+                  "courses"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -60,12 +85,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+                "homepage": "http://jakevdp.github.io/PythonDataScienceHandbook",
                 "id": 65388917,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-06-26T19:17:33Z",
+                "open_issues": 227,
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49721
+                "stars": 49729,
+                "topics": [
+                  "jupyter-notebook",
+                  "matplotlib",
+                  "numpy",
+                  "pandas",
+                  "python",
+                  "scikit-learn"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -76,12 +113,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+                "homepage": null,
                 "id": 21515044,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:40:38Z",
+                "open_issues": 8,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29884
+                "stars": 29887,
+                "topics": [
+                  "analytics",
+                  "awesome-list",
+                  "data-mining",
+                  "data-science",
+                  "data-scientists",
+                  "data-visualization",
+                  "deep-learning",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "science"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -92,12 +145,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+                "homepage": null,
                 "id": 29749635,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-20T13:52:34Z",
+                "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29329
+                "stars": 29331,
+                "topics": [
+                  "aws",
+                  "big-data",
+                  "caffe",
+                  "data-science",
+                  "deep-learning",
+                  "hadoop",
+                  "kaggle",
+                  "keras",
+                  "machine-learning",
+                  "mapreduce",
+                  "matplotlib",
+                  "numpy",
+                  "pandas",
+                  "python",
+                  "scikit-learn",
+                  "scipy",
+                  "spark",
+                  "tensorflow",
+                  "theano"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -108,12 +186,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+                "homepage": null,
                 "id": 28723659,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-26T12:28:00Z",
+                "open_issues": 84,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28823
+                "stars": 28828,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "deep-learning-tutorial",
+                  "deep-networks",
+                  "face-images",
+                  "machine-learning",
+                  "neural-network",
+                  "recurrent-networks"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -124,12 +217,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "common data analysis and machine learning tasks using python",
+                "homepage": null,
                 "id": 43759462,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-03T10:37:58Z",
+                "open_issues": 13,
                 "owner": "ujjwalkarn",
                 "repo": "DataSciencePython",
-                "stars": 5816
+                "stars": 5816,
+                "topics": [
+                  "data-science",
+                  "data-scientists",
+                  "python",
+                  "python-tutorial"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -140,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free resources for learning data science",
+                "homepage": null,
                 "id": 14730075,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2024-06-05T11:27:34Z",
+                "open_issues": 3,
                 "owner": "chaconnewu",
                 "repo": "free-data-science-books",
-                "stars": 3024
+                "stars": 3024,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -156,12 +264,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":memo: Подборка ресурсов по машинному обучению",
+                "homepage": null,
                 "id": 50620708,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-01-12T10:55:12Z",
+                "open_issues": 8,
                 "owner": "demidovakatya",
                 "repo": "vvedenie-mashinnoe-obuchenie",
-                "stars": 1454
+                "stars": 1454,
+                "topics": [
+                  "collections",
+                  "data-mining",
+                  "data-science",
+                  "deep-learning",
+                  "machine-learning",
+                  "mooc",
+                  "neural-networks",
+                  "nlp",
+                  "russian",
+                  "university"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -172,12 +296,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A List of Data Science/Machine Learning Resources (Mostly Free)",
+                "homepage": null,
                 "id": 118740236,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-31T07:43:21Z",
+                "open_issues": 3,
                 "owner": "Shujian2015",
                 "repo": "FreeML",
-                "stars": 1130
+                "stars": 1130,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "machine-learning",
+                  "natural-language-processing"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -188,12 +322,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":chart_with_upwards_trend: Curated list of resources to help you get started with Data Science",
+                "homepage": null,
                 "id": 96045643,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-07T15:12:03Z",
+                "open_issues": 9,
                 "owner": "siboehm",
                 "repo": "awesome-learn-datascience",
-                "stars": 789
+                "stars": 789,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "data-science",
+                  "lists",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -204,12 +349,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of code and resources related to different data science and machine learning topics. For learning, practice and teaching purposes.",
+                "homepage": null,
                 "id": 86588543,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-25T13:36:25Z",
+                "open_issues": 0,
                 "owner": "5agado",
                 "repo": "data-science-learning",
-                "stars": 447
+                "stars": 447,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "jupyter-notebook",
+                  "learning-by-doing",
+                  "machine-learning",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -220,12 +377,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":book: List of some awesome university courses for Machine Learning!  Feel free to contribute!",
+                "homepage": null,
                 "id": 61782248,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-04T09:53:39Z",
+                "open_issues": 1,
                 "owner": "RatulGhosh",
                 "repo": "awesome-machine-learning",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "statistical-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -236,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Сборник ссылок на материалы для изучения нейронных сетей",
+                "homepage": null,
                 "id": 76650967,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-12-16T12:25:10Z",
+                "open_issues": 0,
                 "owner": "re9ulus",
                 "repo": "neural-networks-materials",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -252,12 +425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "machine learning and deep learning tutorials, articles and other resources ",
+                "homepage": "http://ujjwalkarn.github.io/Machine-Learning-Tutorials",
                 "id": 125976206,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2018-02-22T19:57:20Z",
+                "open_issues": 0,
                 "owner": "wilfreddesert",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             }
@@ -275,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Source Data Science Masters",
+                "homepage": "datasciencemasters.org",
                 "id": 12104024,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2023-12-03T11:42:49Z",
+                "open_issues": 42,
                 "owner": "datasciencemasters",
                 "repo": "go",
-                "stars": 26268
+                "stars": 26267,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             }
@@ -298,12 +481,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "What the f*ck Python? 😱",
+                "homepage": null,
                 "id": 101684374,
                 "language": "Python",
+                "license": "WTFPL",
                 "last_commit": "2026-01-13T19:49:12Z",
+                "open_issues": 72,
                 "owner": "satwikkansal",
                 "repo": "wtfpython",
-                "stars": 37066
+                "stars": 37069,
+                "topics": [
+                  "documentation",
+                  "gotchas",
+                  "interview-questions",
+                  "pitfalls",
+                  "python",
+                  "python-interview-questions",
+                  "snippets",
+                  "wats",
+                  "wtf"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             }
@@ -321,12 +519,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Freely available programming books",
+                "homepage": "https://ebookfoundation.github.io/free-programming-books/",
                 "id": 13491895,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-18T14:16:15Z",
+                "open_issues": 92,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395426
+                "stars": 395484,
+                "topics": [
+                  "books",
+                  "education",
+                  "hacktoberfest",
+                  "list",
+                  "resource"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -337,12 +546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jupyter metapackage for installation and documentation",
+                "homepage": "https://jupyter.readthedocs.io/",
                 "id": 36895421,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-09T16:05:40Z",
+                "open_issues": 46,
                 "owner": "jupyter",
                 "repo": "jupyter",
-                "stars": 15350
+                "stars": 15350,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -353,12 +567,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Programming curricula",
+                "homepage": null,
                 "id": 92241502,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-01-03T19:47:46Z",
+                "open_issues": 0,
                 "owner": "P1xt",
                 "repo": "p1xt-guides",
-                "stars": 7184
+                "stars": 7184,
+                "topics": [
+                  "computer-science",
+                  "game-development",
+                  "programming",
+                  "software-engineering",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -369,12 +594,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Directory of Python books",
+                "homepage": null,
                 "id": 55897437,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-17T12:26:40Z",
+                "open_issues": 8,
                 "owner": "junnplus",
                 "repo": "awesome-python-books",
-                "stars": 4291
+                "stars": 4292,
+                "topics": [
+                  "book",
+                  "learning-python",
+                  "python-book",
+                  "python-cookbook",
+                  "python-programming"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -385,12 +621,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Useful functions, tutorials, and other Python-related things",
+                "homepage": null,
                 "id": 13970153,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-06-27T11:54:42Z",
+                "open_issues": 8,
                 "owner": "rasbt",
                 "repo": "python_reference",
-                "stars": 3891
+                "stars": 3891,
+                "topics": [
+                  "learning-python",
+                  "python-tips"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -401,12 +645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of resources for learning programming.",
+                "homepage": null,
                 "id": 28469844,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-05T20:44:44Z",
+                "open_issues": 29,
                 "owner": "Michael0x2a",
                 "repo": "curated-programming-resources",
-                "stars": 3243
+                "stars": 3243,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -417,12 +666,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.",
+                "homepage": "https://learnbyexample.github.io/scripting_course/",
                 "id": 53597382,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2026-07-13T15:20:21Z",
+                "open_issues": 0,
                 "owner": "learnbyexample",
                 "repo": "scripting_course",
-                "stars": 1426
+                "stars": 1426,
+                "topics": [
+                  "bash",
+                  "command-line",
+                  "linux",
+                  "one-liners",
+                  "perl",
+                  "programming",
+                  "python",
+                  "regex",
+                  "ruby",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -433,12 +698,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated decibans of scientific programming resources in Python.",
+                "homepage": "http://svaksha.github.io/pythonidae",
                 "id": 18711198,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-04T14:36:02Z",
+                "open_issues": 4,
                 "owner": "svaksha",
                 "repo": "pythonidae",
-                "stars": 1040
+                "stars": 1040,
+                "topics": [
+                  "awesome-list",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -449,12 +722,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of resources useful for learning Python 🐍",
+                "homepage": null,
                 "id": 24817662,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-25T19:43:03Z",
+                "open_issues": 0,
                 "owner": "adrianmoisey",
                 "repo": "learn-python",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             },
@@ -465,12 +745,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of bookmarks on programming topics",
+                "homepage": null,
                 "id": 92003071,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-04-28T11:07:33Z",
+                "open_issues": 0,
                 "owner": "scraggo",
                 "repo": "bookmarks-programming",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "bookmarks",
+                  "collection",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
             }
@@ -484,15 +773,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:29:57.666Z",
+    "last_updated": "2026-08-29T04:57:09.955Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The essential Python list",
+      "homepage": null,
       "id": 122324954,
       "language": null,
+      "license": null,
       "last_commit": "2019-03-24T12:57:55Z",
+      "open_issues": 2,
       "owner": "wilfreddesert",
       "repo": "python_more_awesome",
-      "stars": 103
+      "stars": 103,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "learning-python",
+        "python",
+        "python3"
+      ]
     },
     "original_repository_sha": "2583251842fc651a4ffb4de70511d6159ec2513b",
     "enhanced_repository": "enhansome/python_more_enhansome",
