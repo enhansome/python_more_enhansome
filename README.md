@@ -102,18 +102,18 @@ The official tutorial is still one of the best resources to take your first step
 
 ## Data Science
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,814 | 🐛 158 | 📅 2026-09-03
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) ⭐ 74,259 | 🐛 30 | 🌐 Python | 📅 2026-09-02
-* [Awesome Courses](https://github.com/prakhar1989/awesome-courses) ⭐ 70,897 | 🐛 65 | 📅 2023-05-04
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 49,784 | 🐛 227 | 🌐 Jupyter Notebook | 📅 2024-06-26
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,822 | 🐛 158 | 📅 2026-09-03
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) ⭐ 74,263 | 🐛 30 | 🌐 Python | 📅 2026-09-02
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses) ⭐ 70,914 | 🐛 65 | 📅 2023-05-04
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 49,792 | 🐛 227 | 🌐 Jupyter Notebook | 📅 2024-06-26
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) ⭐ 29,937 | 🐛 11 | 📅 2026-09-04
-* [Data Science ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,340 | 🐛 48 | 🌐 Python | 📅 2024-03-20
-* [Deep Learning Resources #3](https://github.com/ChristosChristofidis/awesome-deep-learning#free-online-books) ⭐ 28,862 | 🐛 84 | 📅 2025-05-26
+* [Data Science ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,339 | 🐛 48 | 🌐 Python | 📅 2024-03-20
+* [Deep Learning Resources #3](https://github.com/ChristosChristofidis/awesome-deep-learning#free-online-books) ⭐ 28,864 | 🐛 85 | 📅 2025-05-26
 * [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,816 | 🐛 13 | 🌐 Python | 📅 2024-04-03
 * [Free Data Science Books](https://github.com/chaconnewu/free-data-science-books/blob/master/README.md) ⭐ 3,024 | 🐛 3 | 📅 2024-06-05
 * [Lots of links on DS and ML](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) ⭐ 1,453 | 🐛 8 | 📅 2021-01-12 \[RU]
 * [Machine Learning Resources](https://github.com/Shujian2015/FreeML/blob/master/README.md) ⭐ 1,130 | 🐛 3 | 📅 2024-05-31
-* [Awesome Learn Data Science](https://github.com/siboehm/awesome-learn-datascience) ⭐ 791 | 🐛 9 | 📅 2024-06-07
+* [Awesome Learn Data Science](https://github.com/siboehm/awesome-learn-datascience) ⭐ 792 | 🐛 9 | 📅 2024-06-07
 * [Data Science Learning Resources](https://github.com/5agado/data-science-learning/blob/master/resources.md) ⭐ 447 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-25
 * [Awesome Machine Learning Courses](https://github.com/RatulGhosh/awesome-machine-learning) ⭐ 139 | 🐛 1 | 📅 2020-10-04
 * [Deep Learning Resources](https://github.com/re9ulus/neural-networks-materials) ⭐ 5 | 🐛 0 | 📅 2016-12-16
@@ -150,7 +150,7 @@ The official tutorial is still one of the best resources to take your first step
 
 ## Useful resources
 
-* [Python Gotchas](https://github.com/satwikkansal/wtfpython#-strings-can-be-tricky-sometimes-) ⭐ 37,073 | 🐛 72 | 🌐 Python | 📅 2026-01-13
+* [Python Gotchas](https://github.com/satwikkansal/wtfpython#-strings-can-be-tricky-sometimes-) ⭐ 37,075 | 🐛 72 | 🌐 Python | 📅 2026-01-13
 * [Python on Stackoverflow](https://stackoverflow.com/questions/tagged/python)
 * [Learn Python on Reddit](https://www.reddit.com/r/learnpython/)
 * [Python Weekly](https://www.pythonweekly.com)
@@ -173,14 +173,14 @@ The official tutorial is still one of the best resources to take your first step
 
 ## Useful lists
 
-* [Huge list of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 395,997 | 🐛 78 | 🌐 Python | 📅 2026-09-01
+* [Huge list of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 396,043 | 🐛 78 | 🌐 Python | 📅 2026-09-01
 * [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#c) ⭐ 15,347 | 🐛 46 | 🌐 Python | 📅 2026-07-09
 * [p1xt Career Guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,184 | 🐛 0 | 📅 2026-01-03 ## Not just for Python
-* [Awesome Python books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,293 | 🐛 8 | 📅 2025-07-17
+* [Awesome Python books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,294 | 🐛 8 | 📅 2025-07-17
 * [Python Reference Resources](https://github.com/rasbt/python_reference) ⭐ 3,890 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2022-06-27
-* [Even more free resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#python) ⭐ 3,245 | 🐛 29 | 📅 2026-02-05
+* [Even more free resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#python) ⭐ 3,246 | 🐛 29 | 📅 2026-02-05
 * [Python Curated Resources](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md) ⭐ 1,426 | 🐛 0 | 🌐 Vim Script | 📅 2026-07-13
-* [Pythonidae](https://github.com/svaksha/pythonidae) ⭐ 1,040 | 🐛 4 | 🌐 Julia | 📅 2023-07-04
+* [Pythonidae](https://github.com/svaksha/pythonidae) ⭐ 1,041 | 🐛 4 | 🌐 Julia | 📅 2023-07-04
 * [Compilation of Python resources](https://github.com/adrianmoisey/learn-python) ⭐ 240 | 🐛 0 | 📅 2023-10-25
 * [Python Bookmarks](https://github.com/scraggo/bookmarks-programming/tree/master/python-bookmarks) ⭐ 103 | 🐛 0 | 📅 2020-04-28
 * [List of Python books](http://pythonbooks.org)
@@ -233,4 +233,4 @@ The official tutorial is still one of the best resources to take your first step
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
