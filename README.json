@@ -17,11 +17,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-09T21:53:02Z",
+                "last_commit": "2026-09-10T18:15:09Z",
                 "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78887,
+                "stars": 78902,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -47,7 +47,7 @@
                 "open_issues": 34,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74287,
+                "stars": 74296,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -68,7 +68,7 @@
                 "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71020,
+                "stars": 71041,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -94,7 +94,7 @@
                 "open_issues": 227,
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49827,
+                "stars": 49834,
                 "topics": [
                   "jupyter-notebook",
                   "matplotlib",
@@ -122,7 +122,7 @@
                 "open_issues": 4,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29955,
+                "stars": 29964,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -154,7 +154,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29343,
+                "stars": 29342,
                 "topics": [
                   "aws",
                   "big-data",
@@ -195,7 +195,7 @@
                 "open_issues": 85,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28884,
+                "stars": 28887,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -252,7 +252,7 @@
                 "open_issues": 3,
                 "owner": "chaconnewu",
                 "repo": "free-data-science-books",
-                "stars": 3025,
+                "stars": 3026,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -273,7 +273,7 @@
                 "open_issues": 8,
                 "owner": "demidovakatya",
                 "repo": "vvedenie-mashinnoe-obuchenie",
-                "stars": 1454,
+                "stars": 1455,
                 "topics": [
                   "collections",
                   "data-mining",
@@ -462,7 +462,7 @@
                 "open_issues": 42,
                 "owner": "datasciencemasters",
                 "repo": "go",
-                "stars": 26279,
+                "stars": 26283,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -524,11 +524,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-09T20:47:25Z",
+                "last_commit": "2026-09-10T16:15:02Z",
                 "open_issues": 82,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 396380,
+                "stars": 396480,
                 "topics": [
                   "books",
                   "education",
@@ -576,7 +576,7 @@
                 "open_issues": 0,
                 "owner": "P1xt",
                 "repo": "p1xt-guides",
-                "stars": 7182,
+                "stars": 7183,
                 "topics": [
                   "computer-science",
                   "game-development",
@@ -773,7 +773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:47:57.001Z",
+    "last_updated": "2026-09-11T06:47:42.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "The essential Python list",
