@@ -17,11 +17,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-11T20:06:55Z",
-                "open_issues": 159,
+                "last_commit": "2026-09-13T14:41:26Z",
+                "open_issues": 158,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78930,
+                "stars": 78940,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -47,7 +47,7 @@
                 "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74317,
+                "stars": 74327,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -68,7 +68,7 @@
                 "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71092,
+                "stars": 71123,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -94,7 +94,7 @@
                 "open_issues": 227,
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49856,
+                "stars": 49863,
                 "topics": [
                   "jupyter-notebook",
                   "matplotlib",
@@ -122,7 +122,7 @@
                 "open_issues": 5,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29969,
+                "stars": 29980,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -154,7 +154,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29345,
+                "stars": 29346,
                 "topics": [
                   "aws",
                   "big-data",
@@ -195,7 +195,7 @@
                 "open_issues": 85,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28899,
+                "stars": 28908,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -462,7 +462,7 @@
                 "open_issues": 42,
                 "owner": "datasciencemasters",
                 "repo": "go",
-                "stars": 26281,
+                "stars": 26284,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -490,7 +490,7 @@
                 "open_issues": 72,
                 "owner": "satwikkansal",
                 "repo": "wtfpython",
-                "stars": 37080,
+                "stars": 37079,
                 "topics": [
                   "documentation",
                   "gotchas",
@@ -525,10 +525,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-13T01:04:12Z",
-                "open_issues": 79,
+                "open_issues": 82,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 396641,
+                "stars": 396727,
                 "topics": [
                   "books",
                   "education",
@@ -654,7 +654,7 @@
                 "open_issues": 30,
                 "owner": "Michael0x2a",
                 "repo": "curated-programming-resources",
-                "stars": 3245,
+                "stars": 3246,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -773,7 +773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:56:39.774Z",
+    "last_updated": "2026-09-14T07:19:13.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "The essential Python list",
