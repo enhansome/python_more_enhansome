@@ -21,7 +21,7 @@
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79324,
+                "stars": 79328,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -47,7 +47,7 @@
                 "open_issues": 20,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74530,
+                "stars": 74531,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -68,7 +68,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71627,
+                "stars": 71636,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -94,7 +94,7 @@
                 "open_issues": 226,
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 50099,
+                "stars": 50100,
                 "topics": [
                   "jupyter-notebook",
                   "matplotlib",
@@ -195,7 +195,7 @@
                 "open_issues": 90,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29012,
+                "stars": 29013,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -490,7 +490,7 @@
                 "open_issues": 73,
                 "owner": "satwikkansal",
                 "repo": "wtfpython",
-                "stars": 37119,
+                "stars": 37120,
                 "topics": [
                   "documentation",
                   "gotchas",
@@ -528,7 +528,7 @@
                 "open_issues": 81,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398575,
+                "stars": 398584,
                 "topics": [
                   "books",
                   "education",
@@ -773,7 +773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:16:56.859Z",
+    "last_updated": "2026-10-06T11:10:11.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "The essential Python list",
