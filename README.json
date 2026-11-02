@@ -21,7 +21,7 @@
                 "open_issues": 167,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79889,
+                "stars": 79904,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -43,11 +43,11 @@
                 "id": 21872392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T19:21:38Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-01T16:30:10Z",
+                "open_issues": 31,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74701,
+                "stars": 74727,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -68,7 +68,7 @@
                 "open_issues": 66,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72459,
+                "stars": 72484,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -94,7 +94,7 @@
                 "open_issues": 226,
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 50277,
+                "stars": 50318,
                 "topics": [
                   "jupyter-notebook",
                   "matplotlib",
@@ -119,10 +119,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-31T21:12:43Z",
-                "open_issues": 11,
+                "open_issues": 5,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30260,
+                "stars": 30263,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -154,7 +154,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29386,
+                "stars": 29385,
                 "topics": [
                   "aws",
                   "big-data",
@@ -195,7 +195,7 @@
                 "open_issues": 93,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29116,
+                "stars": 29125,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -462,7 +462,7 @@
                 "open_issues": 42,
                 "owner": "datasciencemasters",
                 "repo": "go",
-                "stars": 26349,
+                "stars": 26347,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -490,7 +490,7 @@
                 "open_issues": 73,
                 "owner": "satwikkansal",
                 "repo": "wtfpython",
-                "stars": 37130,
+                "stars": 37133,
                 "topics": [
                   "documentation",
                   "gotchas",
@@ -525,10 +525,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-11-01T02:48:06Z",
-                "open_issues": 90,
+                "open_issues": 94,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 400637,
+                "stars": 400710,
                 "topics": [
                   "books",
                   "education",
@@ -552,7 +552,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-07-09T16:05:40Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "jupyter",
                 "repo": "jupyter",
                 "stars": 15351,
@@ -576,7 +576,7 @@
                 "open_issues": 0,
                 "owner": "P1xt",
                 "repo": "p1xt-guides",
-                "stars": 7183,
+                "stars": 7182,
                 "topics": [
                   "computer-science",
                   "game-development",
@@ -630,7 +630,7 @@
                 "open_issues": 8,
                 "owner": "rasbt",
                 "repo": "python_reference",
-                "stars": 3890,
+                "stars": 3889,
                 "topics": [
                   "learning-python",
                   "python-tips"
@@ -654,7 +654,7 @@
                 "open_issues": 31,
                 "owner": "Michael0x2a",
                 "repo": "curated-programming-resources",
-                "stars": 3250,
+                "stars": 3249,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:29:57.666Z"
@@ -707,7 +707,7 @@
                 "open_issues": 6,
                 "owner": "svaksha",
                 "repo": "pythonidae",
-                "stars": 1050,
+                "stars": 1049,
                 "topics": [
                   "awesome-list",
                   "python"
@@ -773,7 +773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:20:17.619Z",
+    "last_updated": "2026-11-02T08:34:42.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "The essential Python list",
